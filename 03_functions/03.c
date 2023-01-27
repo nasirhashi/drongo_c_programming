@@ -23,5 +23,5 @@ int sum(int fn,int sn){
     ans = fn + sn;
     printf("%i \n", ans);
 
-    return ans;
+    return ans; // returning the answer  
 }
