@@ -2,6 +2,8 @@
 
 int sum(int fn,int sn);
 
+
+
 void main (){
     printf("Main function \n");
     int fn, sn, nsum;
